@@ -1,0 +1,35 @@
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\bin\Debug\TextReadactor.exe.config
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\bin\Debug\TextReadactor.exe
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\bin\Debug\TextReadactor.pdb
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\obj\Debug\TextReadactor.MainForm.resources
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\obj\Debug\TextReadactor.Properties.Resources.resources
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\obj\Debug\TextReadactor.csproj.GenerateResource.cache
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\obj\Debug\TextReadactor.csproj.CoreCompileInputs.cache
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\obj\Debug\TextReadactor.exe
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\obj\Debug\TextReadactor.pdb
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\bin\Debug\itextsharp.dll
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\bin\Debug\itextsharp.pdfa.dll
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\bin\Debug\itextsharp.xtra.dll
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\bin\Debug\itextsharp.xml
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\obj\Debug\TextReadactor.csproj.CopyComplete
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\obj\Debug\TextReadactor.ChartStaticstic.resources
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\obj\Debug\TextReadactor.InterfaceOption.resources
+C:\Users\ISPEN-IMSHCH\Desktop\ДО\Прикладное программирование\Программа на первый день\TextReadactor\TextReadactor\obj\Debug\TextReadactor.csprojAssemblyReference.cache
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\bin\Debug\TextReadactor.exe.config
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\bin\Debug\TextReadactor.exe
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\bin\Debug\TextReadactor.pdb
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\bin\Debug\itextsharp.dll
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\bin\Debug\itextsharp.pdfa.dll
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\bin\Debug\itextsharp.xtra.dll
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.csprojAssemblyReference.cache
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.ChartStaticstic.resources
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.InterfaceOption.resources
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.MainForm.resources
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.Properties.Resources.resources
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.csproj.GenerateResource.cache
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.csproj.CoreCompileInputs.cache
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.csproj.CopyComplete
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.exe
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.pdb
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.Заставка.resources
+D:\3 курс\ООП\Lab №4\TextReadactor\TextReadactor\obj\Debug\TextReadactor.RegKeys.resources
